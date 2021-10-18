@@ -1,0 +1,2 @@
+# genograma-familiar
+genograma
